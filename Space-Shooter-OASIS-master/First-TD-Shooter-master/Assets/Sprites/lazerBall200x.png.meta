@@ -1,0 +1,1544 @@
+fileFormatVersion: 2
+guid: 7136f1ff72382bf46af8d6ee81086d9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6342921998894645599
+    second: lazerBall200x_0
+  - first:
+      213: -2910895353544842126
+    second: lazerBall200x_1
+  - first:
+      213: -8948715647745580396
+    second: lazerBall200x_2
+  - first:
+      213: -3582498164786733081
+    second: lazerBall200x_3
+  - first:
+      213: 1453760180710079605
+    second: lazerBall200x_4
+  - first:
+      213: -3475506878609316428
+    second: lazerBall200x_5
+  - first:
+      213: 7734711957547772699
+    second: lazerBall200x_6
+  - first:
+      213: 6230064457179951988
+    second: lazerBall200x_7
+  - first:
+      213: 7678731297768856555
+    second: lazerBall200x_8
+  - first:
+      213: 155006411182689690
+    second: lazerBall200x_9
+  - first:
+      213: -8407726851115210700
+    second: lazerBall200x_10
+  - first:
+      213: -5989205939224805007
+    second: lazerBall200x_11
+  - first:
+      213: -5183260751914030951
+    second: lazerBall200x_12
+  - first:
+      213: -1965850439195664129
+    second: lazerBall200x_13
+  - first:
+      213: 5787848325531490560
+    second: lazerBall200x_14
+  - first:
+      213: 4894119233780059091
+    second: lazerBall200x_15
+  - first:
+      213: 1529002656268438534
+    second: lazerBall200x_16
+  - first:
+      213: 8980789418095155438
+    second: lazerBall200x_17
+  - first:
+      213: 9025113553980092441
+    second: lazerBall200x_18
+  - first:
+      213: 2834211695919928867
+    second: lazerBall200x_19
+  - first:
+      213: -1822939562529717797
+    second: lazerBall200x_20
+  - first:
+      213: 967073016730852933
+    second: lazerBall200x_21
+  - first:
+      213: 3146208840727568970
+    second: lazerBall200x_22
+  - first:
+      213: -1296697812370737268
+    second: lazerBall200x_23
+  - first:
+      213: 6686062443679422644
+    second: lazerBall200x_24
+  - first:
+      213: 3221743063854009304
+    second: lazerBall200x_25
+  - first:
+      213: 2271006609016602929
+    second: lazerBall200x_26
+  - first:
+      213: -8539540900310036207
+    second: lazerBall200x_27
+  - first:
+      213: -2183481820725275964
+    second: lazerBall200x_28
+  - first:
+      213: -7421542438866693136
+    second: lazerBall200x_29
+  - first:
+      213: -7761090213148077857
+    second: lazerBall200x_30
+  - first:
+      213: -4754285369953663292
+    second: lazerBall200x_31
+  - first:
+      213: -7470729220466619036
+    second: lazerBall200x_32
+  - first:
+      213: -6454140663256672651
+    second: lazerBall200x_33
+  - first:
+      213: 3451172435368145929
+    second: lazerBall200x_34
+  - first:
+      213: 3337695600074743472
+    second: lazerBall200x_35
+  - first:
+      213: -5599319902753745875
+    second: lazerBall200x_36
+  - first:
+      213: 6347679785350618054
+    second: lazerBall200x_37
+  - first:
+      213: 8111171707728176964
+    second: lazerBall200x_38
+  - first:
+      213: -5074458337003143645
+    second: lazerBall200x_39
+  - first:
+      213: -2663997911745775303
+    second: lazerBall200x_40
+  - first:
+      213: -2883170467015286249
+    second: lazerBall200x_41
+  - first:
+      213: 1500572580387677363
+    second: lazerBall200x_42
+  - first:
+      213: -7405479522091970547
+    second: lazerBall200x_43
+  - first:
+      213: -2098763637136603137
+    second: lazerBall200x_44
+  - first:
+      213: 1204673769326740336
+    second: lazerBall200x_45
+  - first:
+      213: -178702848149408491
+    second: lazerBall200x_46
+  - first:
+      213: -359189214057892343
+    second: lazerBall200x_47
+  - first:
+      213: 204544314670490754
+    second: lazerBall200x_48
+  - first:
+      213: 3941842438703056756
+    second: lazerBall200x_49
+  - first:
+      213: -8021402971391878824
+    second: lazerBall200x_50
+  - first:
+      213: 5152341633502167310
+    second: lazerBall200x_51
+  - first:
+      213: 3395783199927447549
+    second: lazerBall200x_52
+  - first:
+      213: -1975115801403345697
+    second: lazerBall200x_53
+  - first:
+      213: 1933912372054238332
+    second: lazerBall200x_54
+  - first:
+      213: 8736426081639108975
+    second: lazerBall200x_55
+  - first:
+      213: -5684860417660599533
+    second: lazerBall200x_56
+  - first:
+      213: 6709328634437703145
+    second: lazerBall200x_57
+  - first:
+      213: 9116020750530959205
+    second: lazerBall200x_58
+  - first:
+      213: 8603827094008523053
+    second: lazerBall200x_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lazerBall200x_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1468
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aebfd95c0a69f7a0800000000000000
+      internalID: -6342921998894645599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1468
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274ef99391c6a97d0800000000000000
+      internalID: -2910895353544842126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1468
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492252cd786cfc380800000000000000
+      internalID: -8948715647745580396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1467
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efd56766e8684ec0800000000000000
+      internalID: -3582498164786733081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_4
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1467
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cf4d79e2bcc2410800000000000000
+      internalID: 1453760180710079605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1467
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5a01e68e484cfc0800000000000000
+      internalID: -3475506878609316428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_6
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1467
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1be99d8b87375b60800000000000000
+      internalID: 7734711957547772699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_7
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1467
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4737ff19d92a57650800000000000000
+      internalID: 6230064457179951988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1267
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebdf218e65509a60800000000000000
+      internalID: 7678731297768856555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1266
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dc37c7281b62200800000000000000
+      internalID: 155006411182689690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1266
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438a3c699f0c15b80800000000000000
+      internalID: -8407726851115210700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1268
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17188d13ee012eca0800000000000000
+      internalID: -5989205939224805007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_12
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1268
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998a0f7eecb5118b0800000000000000
+      internalID: -5183260751914030951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_13
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1267
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0623ae075e7b4e0800000000000000
+      internalID: -1965850439195664129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_14
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1268
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009d4210361925050800000000000000
+      internalID: 5787848325531490560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_15
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1268
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db0ed153876be340800000000000000
+      internalID: 4894119233780059091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1068
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c428b90db183510800000000000000
+      internalID: 1529002656268438534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1068
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8162cb46c22ac70800000000000000
+      internalID: 8980789418095155438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_18
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1067
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910fb82d5f4af3d70800000000000000
+      internalID: 9025113553980092441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_19
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1068
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32690996584255720800000000000000
+      internalID: 2834211695919928867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_20
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1068
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd10960502e93b6e0800000000000000
+      internalID: -1822939562529717797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_21
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1068
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e9b12f8cbbb6d00800000000000000
+      internalID: 967073016730852933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_22
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1069
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42a2c4754499ab20800000000000000
+      internalID: 3146208840727568970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_23
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1069
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87bd98b534310ee0800000000000000
+      internalID: -1296697812370737268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 869
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b897954e5aa9cc50800000000000000
+      internalID: 6686062443679422644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 868
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbc89e3f3ee5bc20800000000000000
+      internalID: 3221743063854009304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_26
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 868
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131cff48a7c348f10800000000000000
+      internalID: 2271006609016602929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_27
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 868
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111d91cabc47d7980800000000000000
+      internalID: -8539540900310036207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_28
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 867
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c295264ad6b2b1e0800000000000000
+      internalID: -2183481820725275964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_29
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 867
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f35ddd0972610990800000000000000
+      internalID: -7421542438866693136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_30
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 869
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd05c8732911b4490800000000000000
+      internalID: -7761090213148077857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_31
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 869
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6431335a2650eb0800000000000000
+      internalID: -4754285369953663292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 669
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dc4f80b53a25890800000000000000
+      internalID: -7470729220466619036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_33
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 669
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5769e2423494e66a0800000000000000
+      internalID: -6454140663256672651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_34
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 668
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904fcbc7b0705ef20800000000000000
+      internalID: 3451172435368145929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_35
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 669
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bed6d2e670e15e20800000000000000
+      internalID: 3337695600074743472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_36
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 669
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24969407383b42b0800000000000000
+      internalID: -5599319902753745875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_37
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 668
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb50c1222d771850800000000000000
+      internalID: 6347679785350618054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_38
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 668
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447265f71bba09070800000000000000
+      internalID: 8111171707728176964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_39
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 668
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e78633707e399b0800000000000000
+      internalID: -5074458337003143645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 467
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939b2048304970bd0800000000000000
+      internalID: -2663997911745775303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_41
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 467
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71228a66cbbecf7d0800000000000000
+      internalID: -2883170467015286249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_42
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 467
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4e2bdbfca13d410800000000000000
+      internalID: 1500572580387677363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_43
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 466
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00574e4c937a3990800000000000000
+      internalID: -7405479522091970547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_44
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 466
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff747fc7791bfd2e0800000000000000
+      internalID: -2098763637136603137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_45
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 467
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07383fa196cd7b010800000000000000
+      internalID: 1204673769326740336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_46
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 468
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51534b7d4be158df0800000000000000
+      internalID: -178702848149408491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_47
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 468
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9067de81057e30bf0800000000000000
+      internalID: -359189214057892343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_48
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 268
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284a2c078ffa6d200800000000000000
+      internalID: 204544314670490754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_49
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 267
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477847f20dc34b630800000000000000
+      internalID: 3941842438703056756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_50
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 267
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8599ce92f704ea090800000000000000
+      internalID: -8021402971391878824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_51
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 267
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e014a5ada6bc08740800000000000000
+      internalID: 5152341633502167310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_52
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 266
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff2ae524de302f20800000000000000
+      internalID: 3395783199927447549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_53
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 267
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4b71ba4aaf694e0800000000000000
+      internalID: -1975115801403345697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_54
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 267
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74a60b5e03a6da10800000000000000
+      internalID: 1933912372054238332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_55
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 267
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f619e82db350e3970800000000000000
+      internalID: 8736426081639108975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 66
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31349afd1915b11b0800000000000000
+      internalID: -5684860417660599533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_57
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 67
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5140178d25c1d50800000000000000
+      internalID: 6709328634437703145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_58
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 69
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567dc78e29c928e70800000000000000
+      internalID: 9116020750530959205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazerBall200x_59
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 68
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29624f282fe66770800000000000000
+      internalID: 8603827094008523053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
